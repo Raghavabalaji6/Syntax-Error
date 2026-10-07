@@ -1,0 +1,6 @@
+{
+  "name": "StudySync AI",
+  "description": "AI-Powered Smart Academic Planner & Student Productivity Platform. Plan smarter. Study better. Achieve more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
